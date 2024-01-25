@@ -1,0 +1,16 @@
+h1 {
+color: aquamarine;
+text-align: center;
+}
+h2{
+    color: blueviolet;
+    text-align: center;
+}
+p1{
+    color: grey;
+    font-family: 'Courier New', Courier, monospace;
+}
+p2{
+    color: blueviolet;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
